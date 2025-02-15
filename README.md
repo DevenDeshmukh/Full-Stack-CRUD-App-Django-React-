@@ -49,6 +49,7 @@ CSS for Styling
 git clone https://github.com/your-username/crud-django-react.git
 cd crud-django-react
 ```
+Extract the zip file named "react-django"
 
 2️⃣ Backend Setup (Django)
 ```
