@@ -30,7 +30,7 @@ useState & useEffect Hooks
 
 CSS for Styling
 
-🔧 Features
+**🔧 Features**
 
 📖 Add Books (Title & Release Year)
 
